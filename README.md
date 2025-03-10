@@ -1,6 +1,13 @@
+![image](https://github.com/user-attachments/assets/05b4f92c-2b34-4976-96c1-d7880760200c)
+![image](https://github.com/user-attachments/assets/f9452445-5819-41c7-831a-449f9987a017)
+
+
+
+
+
 # Mini-Assistente de Dados 🧠🐼
 
-Um assistente inteligente para análise de dados via linguagem natural, combinando a biblioteca `PandasAI` e modelos da OpenAI (GPT-3.5-turbo) em uma interface web simples construída com Streamlit. Permite que usuários carreguem arquivos CSV e interajam com os dados através de perguntas em português, gerando insights e visualizações automáticas.
+Um assistente inteligente para análise de dados, combinando a biblioteca `PandasAI` e modelos da OpenAI em uma interface web simples construída com Streamlit. Permite que usuários carreguem arquivos CSV e interajam com os dados através de perguntas em português, gerando insights e visualizações.
 
 ## Visão Geral ⚙️
 
