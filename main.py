@@ -36,7 +36,7 @@ if uploaded_file is not None:
                 with st.chat_message("user"):
                      st.write(df.chat(prompt))
 
-                image_folder = "C:/Users/lucas/Documents/PandasAI/exports/charts/"
+                image_folder = "<caminho-imagens-geradas>"
             try:
 
                 files = [os.path.join(image_folder, f) for f in os.listdir(image_folder) if f.endswith('.png')]
