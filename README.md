@@ -3,7 +3,7 @@
 
 # Mini-Assistente de Dados 🧠🐼
 
-Um assistente inteligente para análise de dados, combinando a biblioteca `PandasAI` e modelos da OpenAI em uma interface web simples construída com Streamlit. Permite que usuários carreguem arquivos CSV e interajam com os dados através de perguntas em português, gerando insights e visualizações.
+Um assistente inteligente para análise de dados, combinando a biblioteca `PandasAI` e modelos da OpenAI em uma interface web simples construída com Streamlit. Permite que usuários carreguem arquivos CSV e interajam com os dados através de perguntas, gerando insights e visualizações.
 
 ## Visão Geral ⚙️
 
